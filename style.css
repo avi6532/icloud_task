@@ -1,0 +1,16 @@
+html{
+    min-height:100vh;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    background-image: url('./pexels-pixabay-257092.jpg') !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
